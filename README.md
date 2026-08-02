@@ -1,6 +1,6 @@
-# 🍽️ Quic Eats Browser
+# 🍽️ Quick Eats Browser
 
-Quic Eats Browser is a nutrition-focused food ordering web application that helps users discover and order meals based on their nutritional requirements. Instead of searching through hundreds of menu items, users receive personalized food recommendations that match their health and dietary goals.
+Quick Eats Browser is a nutrition-focused food ordering web application that helps users discover and order meals based on their nutritional requirements. Instead of searching through hundreds of menu items, users receive personalized food recommendations that match their health and dietary goals.
 
 ---
 
@@ -17,7 +17,7 @@ Quic Eats Browser is a nutrition-focused food ordering web application that help
 
 ## 🎯 Project Goal
 
-The goal of Quic Eats Browser is to make healthy food ordering simple by recommending meals based on users' nutritional requirements, helping them make smarter food choices.
+The goal of Quick Eats Browser is to make healthy food ordering simple by recommending meals based on users' nutritional requirements, helping them make smarter food choices.
 
 ---
 
@@ -32,7 +32,7 @@ The goal of Quic Eats Browser is to make healthy food ordering simple by recomme
 ## 📂 Project Structure
 
 ```
-Quic-Eats-Browser/
+Quick-Eats-Browser/
 │
 ├── index.html
 ├── css/
@@ -49,7 +49,7 @@ Quic-Eats-Browser/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/quic-eats-browser.git
+git clone https://github.com/your-username/Quick-eats-browser.git
 ```
 
 2. Open the project folder.
